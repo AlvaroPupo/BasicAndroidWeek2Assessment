@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Week2Assessment</string>
+    <string name="welcome_person">Welcome, %1$s</string>
+    <string name="email_verification">Please check your email at %1$s to verify your account!</string>
 </resources>
